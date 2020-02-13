@@ -30,6 +30,7 @@
   - [zip分配生成dict](#zip分配生成dict)
   - [switch-case写法](#switch-case写法)
   - [Format自动解包](#Format自动解包)
+  - [Counter统计词频](#Counter统计词频)
 
 - [**代码片段**](#代码片段)
   - [从右向左替换字符串](#从右向左替换字符串)
@@ -39,6 +40,7 @@
   - [wtfpython](https://github.com/satwikkansal/wtfpython)
   - [code-snippets-python](https://github.com/binderclip/code-snippets-python)
   - [writing_solid_python_code](https://l1nwatch.gitbooks.io/writing_solid_python_code_gitbook/)
+  - [使用timeit给你的程序打个表吧](https://www.cnblogs.com/hengyumo/p/10617018.html)
 
 
 
@@ -67,7 +69,6 @@ Windows
 timeit是一个计时运行代码的模块，可以用来测试算法速度
 -n 设定每组运行轮数，-r 设定定时器重复组数，-s 后面的第一个字符串是初始化代码，只运行一遍
 以上代码会运行1组，在组内的1次运行中求平均值，取这1组的最好成绩
-参考：https://www.cnblogs.com/hengyumo/p/10617018.html
 ```
 
 
@@ -469,7 +470,6 @@ lemon tre3
 
 - [**PyTricks**](https://github.com/brennerm/PyTricks)
 - [**wtfpython**](https://github.com/satwikkansal/wtfpython)
-
 - [**code-snippets-python**](https://github.com/binderclip/code-snippets-python)
 - [**writing_solid_python_code**](https://l1nwatch.gitbooks.io/writing_solid_python_code_gitbook/)
-
+- [**使用timeit给你的程序打个表吧**](https://www.cnblogs.com/hengyumo/p/10617018.html)
